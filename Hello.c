@@ -3,7 +3,7 @@
 int main()
 
 {
-
+printf("nihao");
 return 0;
 
 }
